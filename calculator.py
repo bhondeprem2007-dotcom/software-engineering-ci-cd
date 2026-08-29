@@ -24,7 +24,7 @@ print("All tests passed successfully!")
 
 ## NEW 
 
-def square(a):
+def square_main(a):
     return a * a
 
 assert square(5) == 25
