@@ -13,3 +13,11 @@ assert subtract(10, 5) == 5
 assert multiply(10, 5) == 50
 
 print("All tests passed successfully!")
+
+##NEW 
+def divide(a, b):
+    return a / b
+
+assert divide(10, 2) == 5
+
+print("All tests passed successfully!")
